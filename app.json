@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "815dc320-2f5d-4316-b408-52df330145a1"
+      }
+    }
   },
   "name": "ReliKK"
 }
